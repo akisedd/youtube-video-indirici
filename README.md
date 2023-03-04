@@ -1,7 +1,7 @@
 # youtube-video-indirici
 Python Youtube Video İndirici
 
-**kurulum**
+# kurulum
 # Pytube Kütüphanesini İndirin
 pip install pytube
 
